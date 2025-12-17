@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. header – used to display the website title at the top of the homepage.
+2. nav – used to create a navigation bar that links all pages together.
+3. main – used to wrap the primary content of the homepage.
+4. section – used to group related content on each page.
+5. article – used on the About page to hold descriptive text.
+6. footer – used at the bottom of every page for copyright information.
+7. ul – used to create lists for navigation and project items.
+8. li – used inside unordered lists for navigation links and project entries.
+9. form – used on the Contact page to collect user input.
+10. button – used for form submission, alerts, and the dark mode toggle.
+
+CSS Properties Used:
+1. font-family – used to set the default font for the website.
+2. font-size – used to control heading text size.
+3. margin-top – used to add spacing between sections and elements.
+4. font-weight – used to make navigation links bold.
+5. background-color – used for headers, footers, and dark mode styling.
+
+Bootstrap Usage:
+Bootstrap was used to create a responsive navigation bar, styled buttons, layout containers, and to ensure the site looks good on both mobile and desktop screens.
+
+JavaScript Usage:
+JavaScript was used to add interactivity including active navigation highlighting, form submission handling, dynamic footer year updates, and a persistent dark mode toggle using localStorage.

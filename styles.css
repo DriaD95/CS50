@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+section {
+  margin-top: 20px;
+}
+
+#alertBtn {
+  margin-top: 10px;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+.dark-mode .navbar,
+.dark-mode footer {
+  background-color: #1e1e1e !important;
+}
+
+
